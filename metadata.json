@@ -1,0 +1,6 @@
+{
+  "name": "Village Farmer",
+  "description": "Authentic homemade traditional Andhra podis and fresh dawn-cut farm vegetables direct from the village farmer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
